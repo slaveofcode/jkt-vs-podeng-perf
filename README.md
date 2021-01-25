@@ -35,4 +35,26 @@ Simple script to running performance comparison between JKT & Podeng library whe
 | 524288  |   1ms   |   4ms   |
 | 1048576 |   1ms   |   2ms   |
 |---------|---------|---------|
+
+Computer Specs:
+
+H/W path        Device           Class       Description
+========================================================
+                                 system      Computer
+/0                               bus         Motherboard
+/0/0                             memory      15GiB System memory
+/0/1                             processor   AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx
+/0/100                           bridge      Advanced Micro Devices, Inc. [AMD]
+/0/100/0.2                       generic     Advanced Micro Devices, Inc. [AMD]
+/0/100/1.1                       bridge      Advanced Micro Devices, Inc. [AMD]
+/0/100/1.1/0                     display     NVIDIA Corporation
+/0/100/1.1/0.1                   multimedia  NVIDIA Corporation
+/0/100/1.2                       bridge      Advanced Micro Devices, Inc. [AMD]
+/0/100/1.2/0    enp2s0           network     RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+/0/100/1.3                       bridge      Advanced Micro Devices, Inc. [AMD]
+/0/100/1.3/0                     storage     Non-Volatile memory controller
+/0/100/1.7                       bridge      Advanced Micro Devices, Inc. [AMD]
+/0/100/1.7/0    wlp4s0           network     RTL8822BE 802.11a/b/g/n/ac WiFi adapter
+/0/100/8.1                       bridge      Advanced Micro Devices, Inc. [AMD]
+/0/100/8.1/0                     display     Picasso
 ```
