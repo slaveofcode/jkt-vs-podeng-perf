@@ -1,0 +1,26 @@
+{
+  "name": "jkt-vs-podeng-perf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slaveofcode/jkt-vs-podeng-perf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slaveofcode/jkt-vs-podeng-perf/issues"
+  },
+  "homepage": "https://github.com/slaveofcode/jkt-vs-podeng-perf#readme",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "hashids": "^2.2.8",
+    "jkt": "^2.3.8",
+    "podeng": "^1.5.5"
+  }
+}
